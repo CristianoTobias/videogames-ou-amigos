@@ -6,7 +6,7 @@ const resposta2 = true
 
 //Amigos Reais ou Virtuais
 
-const resposta3 = ""
+const resposta3 = "reais"
 
 if(resposta1){
     if(resposta2){
