@@ -25,3 +25,21 @@ if(resposta1){
 }else{
     console.log("Compre um Pc!")
 }
+
+
+// let numero = prompt("Digite um numero: ")
+// let arr = []
+// for (let index = 0; index < 5; index++) {
+//     arr.push(numero)
+    
+// }
+// console.log(arr)
+
+// for (let index = 0; index < 3; index++) {
+//     console.log(arr[0])
+    
+// }
+
+// let arrayProdutos = ["Iphone 12", 15000, 80, 1200000]
+
+// arrayProdutos.pop()
